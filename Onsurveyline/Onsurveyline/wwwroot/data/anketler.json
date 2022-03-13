@@ -1,0 +1,306 @@
+[
+  {
+    "KullaniciId": 12,
+    "anketid": 28,
+    "baslik": "En yeni anket?",
+    "createdTime": "2.02.2022 18:52:23",
+    "onoff": true,
+    "kod": 111138,
+    "cevaplar": {
+      "anketid": 28,
+      "cevap1": "Birinci \u015F\u0131k",
+      "sayac1": 0,
+      "cevap2": "\u0130kinci \u015E\u0131k",
+      "sayac2": 0,
+      "cevap3": "\u00DC\u00E7\u00FCnc\u00FC \u015E\u0131k",
+      "sayac3": 0,
+      "cevap4": "D\u00F6rd\u00FCnc\u00FC \u015E\u0131k",
+      "sayac4": 0
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 19,
+    "baslik": "Hangi tak\u0131m\u0131 tutuyorsunuz?",
+    "createdTime": "3.01.2022 17:31:31",
+    "onoff": true,
+    "kod": 111111,
+    "cevaplar": {
+      "anketid": 19,
+      "cevap1": "fb",
+      "sayac1": 11,
+      "cevap2": "gs",
+      "sayac2": 6,
+      "cevap3": "bjk",
+      "sayac3": 11,
+      "cevap4": "ts",
+      "sayac4": 4
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 32,
+    "baslik": "aaaaaaa",
+    "createdTime": "21.02.2022 19:48:24",
+    "onoff": true,
+    "kod": 111150,
+    "cevaplar": {
+      "anketid": 32,
+      "cevap1": "abc",
+      "sayac1": 0,
+      "cevap2": "abc",
+      "sayac2": 2,
+      "cevap3": "abc",
+      "sayac3": 1,
+      "cevap4": "abc",
+      "sayac4": 1
+    }
+  },
+  {
+    "KullaniciId": 13,
+    "anketid": 33,
+    "baslik": "qweqweqewq",
+    "createdTime": "21.02.2022 21:15:02",
+    "onoff": true,
+    "kod": 111153,
+    "cevaplar": {
+      "anketid": 33,
+      "cevap1": "1",
+      "sayac1": 0,
+      "cevap2": "2",
+      "sayac2": 1,
+      "cevap3": "3",
+      "sayac3": 0,
+      "cevap4": "4",
+      "sayac4": 0
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 20,
+    "baslik": "Onsurveyline\u0027yi be\u011Fendiniz mi?",
+    "createdTime": "4.01.2022 14:03:17",
+    "onoff": true,
+    "kod": 111114,
+    "cevaplar": {
+      "anketid": 20,
+      "cevap1": "deneme1",
+      "sayac1": 1,
+      "cevap2": "deneme2",
+      "sayac2": 3,
+      "cevap3": "deneme3",
+      "sayac3": 1,
+      "cevap4": "deneme4",
+      "sayac4": 1
+    }
+  },
+  {
+    "KullaniciId": 14,
+    "anketid": 34,
+    "baslik": "ghjghj",
+    "createdTime": "28.02.2022 15:05:35",
+    "onoff": true,
+    "kod": 111156,
+    "cevaplar": {
+      "anketid": 34,
+      "cevap1": "ghjghjghjghj",
+      "sayac1": 0,
+      "cevap2": "ghjghj",
+      "sayac2": 0,
+      "cevap3": "ghjghjghj",
+      "sayac3": 1,
+      "cevap4": "ghjghjghj",
+      "sayac4": 0
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 21,
+    "baslik": "Anket olu\u015Fturma offline ve online olmal\u0131 m\u0131",
+    "createdTime": "4.01.2022 15:17:58",
+    "onoff": true,
+    "kod": 111117,
+    "cevaplar": {
+      "anketid": 21,
+      "cevap1": "deneme1",
+      "sayac1": 1,
+      "cevap2": "deneme2",
+      "sayac2": 1,
+      "cevap3": "deneme3",
+      "sayac3": 1,
+      "cevap4": "deneme4",
+      "sayac4": 1
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 24,
+    "baslik": "yeni deneme",
+    "createdTime": "2.02.2022 16:43:14",
+    "onoff": true,
+    "kod": 111126,
+    "cevaplar": {
+      "anketid": 24,
+      "cevap1": "deneme43",
+      "sayac1": 1,
+      "cevap2": "denem44",
+      "sayac2": 0,
+      "cevap3": "deeme4",
+      "sayac3": 1,
+      "cevap4": "deneme5",
+      "sayac4": 0
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 22,
+    "baslik": "asddsafd",
+    "createdTime": "2.02.2022 16:01:51",
+    "onoff": true,
+    "kod": 111120,
+    "cevaplar": {
+      "anketid": 22,
+      "cevap1": "deneme1",
+      "sayac1": 1,
+      "cevap2": "deneme2",
+      "sayac2": 1,
+      "cevap3": "deneme3",
+      "sayac3": 1,
+      "cevap4": "deneme4",
+      "sayac4": 0
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 23,
+    "baslik": "deneme",
+    "createdTime": "2.02.2022 16:13:54",
+    "onoff": true,
+    "kod": 111123,
+    "cevaplar": {
+      "anketid": 23,
+      "cevap1": "deneme1",
+      "sayac1": 1,
+      "cevap2": "deneme2",
+      "sayac2": 1,
+      "cevap3": "deneme3",
+      "sayac3": 2,
+      "cevap4": "deneme4",
+      "sayac4": 2
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 25,
+    "baslik": "asd",
+    "createdTime": "2.02.2022 17:12:48",
+    "onoff": true,
+    "kod": 111129,
+    "cevaplar": {
+      "anketid": 25,
+      "cevap1": "dsa",
+      "sayac1": 1,
+      "cevap2": "dsa",
+      "sayac2": 0,
+      "cevap3": "sdasda",
+      "sayac3": 1,
+      "cevap4": "dsa",
+      "sayac4": 2
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 26,
+    "baslik": "yeni anket deneme",
+    "createdTime": "2.02.2022 17:19:46",
+    "onoff": true,
+    "kod": 111132,
+    "cevaplar": {
+      "anketid": 26,
+      "cevap1": "\u015F\u0131k 1",
+      "sayac1": 1,
+      "cevap2": "\u015F\u0131k 2",
+      "sayac2": 1,
+      "cevap3": "\u015F\u0131k 3",
+      "sayac3": 1,
+      "cevap4": "\u015F\u0131k 4",
+      "sayac4": 0
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 31,
+    "baslik": "son s\u00FCr\u00FCm d\u00FCzg\u00FCn \u00E7al\u0131\u015F\u0131r m\u0131",
+    "createdTime": "14.02.2022 21:48:33",
+    "onoff": true,
+    "kod": 111147,
+    "cevaplar": {
+      "anketid": 31,
+      "cevap1": "evet",
+      "sayac1": 0,
+      "cevap2": "hay\u0131r",
+      "sayac2": 2,
+      "cevap3": "belki",
+      "sayac3": 0,
+      "cevap4": "dene",
+      "sayac4": 2
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 27,
+    "baslik": "en son",
+    "createdTime": "2.02.2022 18:47:26",
+    "onoff": true,
+    "kod": 111135,
+    "cevaplar": {
+      "anketid": 27,
+      "cevap1": "qwe",
+      "sayac1": 1,
+      "cevap2": "sd",
+      "sayac2": 0,
+      "cevap3": "asd",
+      "sayac3": 0,
+      "cevap4": "qwe",
+      "sayac4": 0
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 29,
+    "baslik": "ennnson",
+    "createdTime": "2.02.2022 19:06:33",
+    "onoff": true,
+    "kod": 111141,
+    "cevaplar": {
+      "anketid": 29,
+      "cevap1": "123",
+      "sayac1": 1,
+      "cevap2": "234",
+      "sayac2": 1,
+      "cevap3": "345",
+      "sayac3": 0,
+      "cevap4": "456",
+      "sayac4": 0
+    }
+  },
+  {
+    "KullaniciId": 6,
+    "anketid": 30,
+    "baslik": "en son anket",
+    "createdTime": "2.02.2022 19:32:43",
+    "onoff": true,
+    "kod": 111144,
+    "cevaplar": {
+      "anketid": 30,
+      "cevap1": "123",
+      "sayac1": 1,
+      "cevap2": "234",
+      "sayac2": 0,
+      "cevap3": "345",
+      "sayac3": 1,
+      "cevap4": "456",
+      "sayac4": 0
+    }
+  }
+]
