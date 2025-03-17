@@ -4,9 +4,84 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mete Serbay Cesur - CV</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            background: #121212;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            opacity: 0.8;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #007bff;
+            color: white;
+            font-size: 1.1rem;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            background: #0056b3;
+        }
+
+        .pdf-container {
+            margin-top: 20px;
+            width: 80%;
+            max-width: 800px;
+            height: 600px;
+            border: 2px solid #ffffff33;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2rem; }
+            p { font-size: 1rem; }
+            .pdf-container { height: 400px; }
+        }
+    </style>
 </head>
 <body>
-    <h1>Mete Serbay Cesur - CV</h1>
-    <embed src="CV_Mete.pdf" type="application/pdf" width="100%" height="600px" />
+    <h1>Mete Serbay Cesur</h1>
+    <p>Aşağıdaki butona tıklayarak CV’mi görüntüleyebilirsiniz:</p>
+    <a class="btn" href="CV_Mete.pdf" target="_blank">📄 CV’yi Aç</a>
+
+    <div class="pdf-container">
+        <iframe src="CV_Mete.pdf"></iframe>
+    </div>
 </body>
 </html>
